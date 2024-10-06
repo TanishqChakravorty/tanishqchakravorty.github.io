@@ -1,10 +1,9 @@
 title: Tanishq Chakravorty
 description: Language Scientist
-#description: Email: tanishq.chakravorty@unine.ch
+email: "tanishq.chakravorty@unine.ch"
+cv_url: "https://yourwebsite.com/path/to/your/cv.pdf"
 github:
   is_project_page: false
-#logo: /assets/img/headshot_circle.png
-#description: text below image show_downloads: true theme:
 show_downloads: false
 theme: jekyll-theme-midnight
 include: [./assets/css/style.scss]
