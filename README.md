@@ -5,7 +5,7 @@ My research spans across multiple domains, including cognitive science, anthropo
 <div align="center"><img src="assets/img/IMG-20231209-WA0014.jpg" width="500"></div>
 <br/>
 
-I completed my MSc in Evolution of Language and Cognition at the University of Edinburgh. For my dissertation, I studied the influence of varioius behavioural and social contexts on the vocalisations of chimpanzees at the [Budongo Research Unit](https://living-links.org/about/living-links-budongo-consortium/), Edinburgh Zoo. My BA in Psychology from FLAME University laid the groundwork for my interdisciplinary approach, combining cognitive science and marketing research with research on human behavior.
+I completed my MSc in Evolution of Language and Cognition at the University of Edinburgh. For my dissertation, I studied the influence of various behavioural and social contexts on the vocalisations of chimpanzees at the [Budongo Research Unit](https://living-links.org/about/living-links-budongo-consortium/), Edinburgh Zoo. My BA in Psychology from FLAME University laid the groundwork for my interdisciplinary approach, combining interests in cognitive science and cultural studies with research on human behavior.
 
 When I'm not working, I enjoy hiking, cooking, and playing my guitar. I speak four languages and a fun fact about me is that I am really good at the Stroop test.
 
