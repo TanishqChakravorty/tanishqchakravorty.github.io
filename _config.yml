@@ -1,7 +1,8 @@
 title: Tanishq Chakravorty
 description: Language Scientist
 email: "tanishq.chakravorty@unine.ch"
-cv_url: "https://yourwebsite.com/path/to/your/cv.pdf"
+linkedin: "[Connect with me](https://www.linkedin.com/in/tanishq-chakravorty/)
+cv_url: "[CV](https://yourwebsite.com/path/to/your/cv.pdf)"
 github:
   is_project_page: false
 show_downloads: false
